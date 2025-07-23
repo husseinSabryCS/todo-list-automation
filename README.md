@@ -42,6 +42,21 @@ Deleting an item and verifying deletion
 
 
 ---
+SimpleTodoAutomation/
+├── pom.xml
+├── testng.xml
+├── src/
+│   ├── main/
+│   │   └── java/
+│   │       └── pages/
+│   │           └── BasePage.java
+│   └── test/
+│       └── java/
+│           ├── tests/
+│           │   ├── BaseTest.java
+│           │   └── TodoListTest.java
+│           └── utils/
+│               └── WebDriverFactory.java
 
-Let me know if you want this file as a downloadable `.md` file or want me to include your actual class and method names directly.
+
 
